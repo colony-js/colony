@@ -1,0 +1,27 @@
+{
+  "name": "CM-Database",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "database",
+    "server"
+  ],
+  "homepage": "",
+  "license": "CC-BY-SA-3.0",
+  "author": {
+    "name": "Ciro Cesar Maciel",
+    "email": "ciro.maciel@c37.co"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-batch": "latest",
+    "gulp-concat": "latest",
+    "gulp-header": "latest",
+    "gulp-jsdoc": "latest",
+    "gulp-watch": "latest",
+    "gulp-wrapper": "latest"
+  }
+}
