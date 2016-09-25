@@ -1,5 +1,9 @@
 
 
+https://git-scm.com/book/be/v2/Git-Internals-Plumbing-and-Porcelain
+
+https://github.com/libgit2/libgit2
+
 https://github.com/attic-labs/noms
 
 https://github.com/jbenet/random-ideas/issues/20
